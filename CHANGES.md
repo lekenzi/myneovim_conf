@@ -53,7 +53,7 @@ Mason installed 39 tools: basedpyright, bash-debug-adapter, bash-language-server
 - Moved the guide from the Desktop into `docs/` and symlinked it back.
 - Moved the toolchain lines from `~/.zshrc` into `zsh/toolchains.zsh`.
 - Added `Brewfile`, `setup.sh`, `README.md`, this file, `CLAUDE.md` / `AGENTS.md`.
-- `git init` with a first commit. **Not pushed anywhere.**
+- `git init`, pushed to https://github.com/lekenzi/myneovim_conf (public).
 
 ## Undo everything
 

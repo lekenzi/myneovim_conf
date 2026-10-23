@@ -8,7 +8,7 @@ plus JSON, YAML, TOML, Markdown, Docker, HTML/CSS and Lua.
 ## New Mac in one command
 
 ```sh
-git clone <this-repo-url> ~/dotfiles && ~/dotfiles/setup.sh
+git clone https://github.com/lekenzi/myneovim_conf.git ~/dotfiles && ~/dotfiles/setup.sh
 ```
 
 Then set your terminal font to **JetBrainsMono Nerd Font** and open a new terminal tab.

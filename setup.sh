@@ -2,7 +2,7 @@
 # Bootstrap the Neovim/AstroNvim setup on a fresh Mac (Apple Silicon or Intel).
 # Safe to re-run: every step checks before it changes anything.
 #
-#   git clone <this repo> ~/dotfiles && ~/dotfiles/setup.sh
+#   git clone https://github.com/lekenzi/myneovim_conf.git ~/dotfiles && ~/dotfiles/setup.sh
 #
 # Flags:
 #   --skip-tools   skip the headless plugin + Mason install (do it on first nvim launch instead)
