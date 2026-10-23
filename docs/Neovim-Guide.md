@@ -250,13 +250,13 @@ These work the same in **every language** you have set up.
 ### Navigate code
 | Keys | Action |
 |---|---|
-| `gd` | **Go to definition** |
+| `gd` or `Ctrl-]` | **Go to definition** (`Ctrl+click` also works) |
 | `gy` | Go to type definition |
-| `gI` | Go to implementation |
+| `gI` or `gri` | Go to implementation |
 | `grr` or `Space lR` | **Find all references** |
 | `K` | **Hover docs** for the thing under the cursor (press twice to enter the popup) |
 | `gK` / `Space lh` | Signature help (function arguments) |
-| `Ctrl-o` / `Ctrl-i` | **Jump back / forward** (after `gd`, this returns you) |
+| `Ctrl-o` / `Ctrl-i` | **Jump back / forward** (after `gd`, this returns you; after `Ctrl-]`, `Ctrl-t` also works) |
 | `Space ls` | Search symbols in this file |
 | `Space lG` | Search symbols in the whole project |
 | `Space lS` | Symbols outline sidebar |
@@ -267,8 +267,8 @@ These work the same in **every language** you have set up.
 ### Change code
 | Keys | Action |
 |---|---|
-| `Space lr` | **Rename** symbol (everywhere, safely) |
-| `Space la` | **Code actions** (quick fixes, imports, refactors) |
+| `Space lr` or `grn` | **Rename** symbol (everywhere, safely) |
+| `Space la` or `gra` | **Code actions** (quick fixes, imports, refactors) |
 | `Space lf` | Format file (also happens automatically on save) |
 | `Space /` | Toggle comment (line or selection) |
 | `>a` / `<a` | Swap argument with the next / previous one |
